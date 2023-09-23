@@ -1,0 +1,6 @@
+.vs
+*.obj
+*.o
+*.pdb
+*.exe
+*.out
